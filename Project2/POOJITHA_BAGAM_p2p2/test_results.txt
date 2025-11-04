@@ -1,0 +1,23 @@
+Random Strategy Results:
+Test 1: Fail - 30 steps
+Test 2: Fail - 30 steps
+Test 3: Fail - 30 steps
+Test 4: Pass - 16 steps
+Test 5: Fail - 30 steps
+Test 6: Fail - 30 steps
+Test 7: Fail - 30 steps
+Test 8: Fail - 30 steps
+Test 9: Fail - 30 steps
+Test 10: Fail - 30 steps
+
+Q-Learning Strategy Results:
+Test 1: Fail - 30 steps
+Test 2: Fail - 30 steps
+Test 3: Fail - 30 steps
+Test 4: Pass - 18 steps
+Test 5: Fail - 30 steps
+Test 6: Fail - 30 steps
+Test 7: Fail - 30 steps
+Test 8: Fail - 30 steps
+Test 9: Pass - 15 steps
+Test 10: Pass - 4 steps

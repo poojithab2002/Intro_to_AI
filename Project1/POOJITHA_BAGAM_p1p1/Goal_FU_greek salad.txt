@@ -1,0 +1,24 @@
+//
+O	mixing bowl
+S	contains	{tomato,onion,cucumber,sweet pepper,green pepper,oregano,black olive,salt,lemon,olive oil}
+O	salad
+S	mixed
+S	contains	{tomato,onion,cucumber,sweet pepper,green pepper,oregano,black olive,salt,lemon,olive oil}
+S	in	[mixing bowl]
+O	spoon
+S	contains	{feta cheese}
+O	feta cheese
+S	cubed
+S	in	[spoon]
+M	pour
+O	mixing bowl
+S	contains	{salad}
+O	greek salad
+S	mixed
+S	contains	{tomato,onion,cucumber,sweet pepper,green pepper,oregano,black olive,salt,lemon,olive oil,feta cheese}
+S	in	[mixing bowl]
+O	salad
+S	mixed
+S	contains	{tomato,onion,cucumber,sweet pepper,green pepper,oregano,black olive,salt,lemon,olive oil,feta cheese}
+S	in	[mixing bowl]
+//

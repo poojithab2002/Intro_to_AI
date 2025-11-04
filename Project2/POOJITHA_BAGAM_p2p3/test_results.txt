@@ -1,0 +1,102 @@
+Episode 1: Success in 23 steps
+Episode 2: Failed to reach goal state
+Episode 3: Failed to reach goal state
+Episode 4: Failed to reach goal state
+Episode 5: Failed to reach goal state
+Episode 6: Success in 30 steps
+Episode 7: Failed to reach goal state
+Episode 8: Success in 12 steps
+Episode 9: Failed to reach goal state
+Episode 10: Success in 21 steps
+Episode 11: Success in 21 steps
+Episode 12: Failed to reach goal state
+Episode 13: Failed to reach goal state
+Episode 14: Failed to reach goal state
+Episode 15: Success in 19 steps
+Episode 16: Failed to reach goal state
+Episode 17: Failed to reach goal state
+Episode 18: Failed to reach goal state
+Episode 19: Success in 14 steps
+Episode 20: Success in 28 steps
+Episode 21: Failed to reach goal state
+Episode 22: Failed to reach goal state
+Episode 23: Failed to reach goal state
+Episode 24: Success in 5 steps
+Episode 25: Success in 13 steps
+Episode 26: Success in 20 steps
+Episode 27: Failed to reach goal state
+Episode 28: Failed to reach goal state
+Episode 29: Failed to reach goal state
+Episode 30: Success in 14 steps
+Episode 31: Failed to reach goal state
+Episode 32: Failed to reach goal state
+Episode 33: Failed to reach goal state
+Episode 34: Success in 30 steps
+Episode 35: Success in 18 steps
+Episode 36: Failed to reach goal state
+Episode 37: Failed to reach goal state
+Episode 38: Failed to reach goal state
+Episode 39: Success in 24 steps
+Episode 40: Failed to reach goal state
+Episode 41: Failed to reach goal state
+Episode 42: Failed to reach goal state
+Episode 43: Failed to reach goal state
+Episode 44: Failed to reach goal state
+Episode 45: Failed to reach goal state
+Episode 46: Success in 23 steps
+Episode 47: Success in 13 steps
+Episode 48: Failed to reach goal state
+Episode 49: Failed to reach goal state
+Episode 50: Failed to reach goal state
+Episode 51: Success in 14 steps
+Episode 52: Success in 2 steps
+Episode 53: Failed to reach goal state
+Episode 54: Success in 25 steps
+Episode 55: Failed to reach goal state
+Episode 56: Success in 16 steps
+Episode 57: Failed to reach goal state
+Episode 58: Success in 10 steps
+Episode 59: Failed to reach goal state
+Episode 60: Failed to reach goal state
+Episode 61: Failed to reach goal state
+Episode 62: Failed to reach goal state
+Episode 63: Failed to reach goal state
+Episode 64: Failed to reach goal state
+Episode 65: Failed to reach goal state
+Episode 66: Failed to reach goal state
+Episode 67: Failed to reach goal state
+Episode 68: Success in 15 steps
+Episode 69: Success in 16 steps
+Episode 70: Success in 11 steps
+Episode 71: Success in 27 steps
+Episode 72: Failed to reach goal state
+Episode 73: Success in 18 steps
+Episode 74: Success in 27 steps
+Episode 75: Failed to reach goal state
+Episode 76: Failed to reach goal state
+Episode 77: Failed to reach goal state
+Episode 78: Failed to reach goal state
+Episode 79: Failed to reach goal state
+Episode 80: Success in 14 steps
+Episode 81: Failed to reach goal state
+Episode 82: Failed to reach goal state
+Episode 83: Failed to reach goal state
+Episode 84: Failed to reach goal state
+Episode 85: Failed to reach goal state
+Episode 86: Failed to reach goal state
+Episode 87: Failed to reach goal state
+Episode 88: Failed to reach goal state
+Episode 89: Failed to reach goal state
+Episode 90: Failed to reach goal state
+Episode 91: Success in 12 steps
+Episode 92: Failed to reach goal state
+Episode 93: Success in 7 steps
+Episode 94: Success in 14 steps
+Episode 95: Success in 3 steps
+Episode 96: Success in 28 steps
+Episode 97: Failed to reach goal state
+Episode 98: Failed to reach goal state
+Episode 99: Failed to reach goal state
+Episode 100: Success in 30 steps
+
+Total Successful Mixes: 35 out of 100

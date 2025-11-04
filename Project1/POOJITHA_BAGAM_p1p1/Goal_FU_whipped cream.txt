@@ -1,0 +1,18 @@
+//
+O	mixing bowl
+S	contains	{pudding}
+O	jar
+S	contains	{whipped cream}
+O	whipped cream
+S	whipped
+S	creamy
+S	in	[jar]
+O	spatula
+M	pour
+O	mixing bowl
+S	contains	{pudding,whipped cream}
+O	whipped cream
+S	whipped
+S	creamy
+S	in	[mixing bowl]
+//

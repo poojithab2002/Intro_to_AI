@@ -1,0 +1,12 @@
+//
+O	cutting board
+S	contains	{sweet potato}
+O	sweet potato
+S	peeled
+S	in	[cutting board]
+O	knife
+M	cut
+O	sweet potato
+S	chopped
+S	in	[cutting board]
+//
